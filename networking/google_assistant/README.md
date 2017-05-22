@@ -6,7 +6,7 @@ To enable access to the Google Assistant API, do the following on your developme
 
 2. Enable the Google Assistant API on the project you selected [at this link](https://console.developers.google.com/apis/api/embeddedassistant.googleapis.com/overview?pli=1). Select your project as mentioned in step 1 and click the “Enable” button.
 
-3. create an OAuth Client ID with the following steps:
+3. Create an OAuth Client ID with the following steps:
     - [Create the client ID at this link.](https://console.developers.google.com/apis/credentials/oauthclient)
     - You may need to set a product name for the product consent screen. On the OAuth consent screen tab, give the product a name and click Save.
     - Click Other and give the client ID a name.
